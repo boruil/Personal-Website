@@ -1,0 +1,14 @@
+img {
+	width: 180px;
+	height: 100px;
+}
+
+body {
+	font-family: Georgia, serif;
+}
+
+div {
+	vertical-align: top;
+	text-align: center;
+	font-size: 20pt;
+}
