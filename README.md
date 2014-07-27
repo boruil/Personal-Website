@@ -1,4 +1,4 @@
 Personal-Website
 ================
 
-My Personal Website which is still under construction
+My Personal Website still under construction
